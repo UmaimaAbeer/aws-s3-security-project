@@ -1,0 +1,13 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::547900304698:user/s3-access-user"
+      },
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::secure-umaima-bucket/*"
+    }
+  ]
+}
