@@ -16,7 +16,7 @@ This project demonstrates how to secure an Amazon S3 bucket using IAM, bucket po
 - `notes.md` – Documentation of all steps
 
 ## 📅 Completion Date
-July 2025
+15 July 2025
 
 ## 👤 By
 Syeda Umaima Abeer
