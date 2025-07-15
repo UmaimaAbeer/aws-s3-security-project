@@ -14,7 +14,7 @@ This project demonstrates how to secure an Amazon S3 bucket using IAM, bucket po
 - `iam-policy.json` – IAM policy for user
 - `screenshots/` – Configuration screenshots
 - `notes.md` – Documentation of all steps
-- 📄 [Click here to view full project report] (https://github.com/UmaimaAbeer/aws-s3-security-project/blob/main/Secure-S3-Project-Report-UmaimaAbeer.pdf)
+- 📄 `Click here to view full project report` -(https://github.com/UmaimaAbeer/aws-s3-security-project/blob/main/Secure-S3-Project-Report-UmaimaAbeer.pdf)
 
 
 ## 📅 Completion Date
